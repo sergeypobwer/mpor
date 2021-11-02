@@ -55,4 +55,4 @@ if __name__=="__main__":
     b = int(input("Введите вторую ставку) b = "));
     do_max(a,b)
     print('\n\n')
-    do_min(a,b)
+    do_min(a,b)'
